@@ -9,7 +9,7 @@ This link will point you out on the specific attributes the language has compare
 
 https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/
 
-Ruby From Python
+## Ruby From Python
 This link compares Ruby and Python, refer to it if you are familiar with the latter.
 
 https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/
