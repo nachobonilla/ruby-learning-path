@@ -19,6 +19,10 @@ https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-fro
 This link compares Ruby and C, refer to it if you are familiar with the latter.
 https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-c-and-cpp/
 
+## Ruby style guide 
+
+This Ruby style guide recommends best practices so that real-world Ruby programmers can write code that can be maintained by other real-world Ruby programmers.
+https://github.com/rubocop-hq/ruby-style-guide
 
 ## Learn Ruby the Hard Way
 
@@ -51,4 +55,29 @@ https://learnrubythehardway.org/book/ex30.html
 ### Arrays and Loops 
 https://learnrubythehardway.org/book/ex32.html
 
+### Symbols (Idiomatic cheatsheet)
+https://learnrubythehardway.org/book/ex37.html
 
+### Hashmaps
+https://learnrubythehardway.org/book/ex39.html
+
+### Modules, Classes and Objects
+https://learnrubythehardway.org/book/ex40.html
+
+### Object-Oriented Ruby
+https://learnrubythehardway.org/book/ex41.html
+
+If you feel you are lacking some expertise in OOP, you can also use:
+
+https://learnrubythehardway.org/book/ex42.html
+https://learnrubythehardway.org/book/ex43.html
+https://learnrubythehardway.org/book/ex44.html
+
+### Project structure
+https://learnrubythehardway.org/book/ex46.html
+
+### Writing tests
+https://learnrubythehardway.org/book/ex47.html
+
+### Handling Exceptions
+http://rubylearning.com/satishtalim/ruby_exceptions.html
