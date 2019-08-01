@@ -79,8 +79,21 @@ https://learnrubythehardway.org/book/ex46.html
 ### Writing tests
 https://learnrubythehardway.org/book/ex47.html
 
+## Programming Ruby
+Programming Ruby is a documentation site with a lot of helpful information on Ruby. I will only add the links that add something of value which we didn't found on Ruby the Hard Way, or that is a lot more complete. 
+
+### Expressions
+https://ruby-doc.com/docs/ProgrammingRuby/html/tut_expressions.html
+
 ### Handling Exceptions
-http://rubylearning.com/satishtalim/ruby_exceptions.html
+https://ruby-doc.com/docs/ProgrammingRuby/html/tut_exceptions.html
+
+### Threads
+https://ruby-doc.com/docs/ProgrammingRuby/html/tut_threads.html
+
+### Reflection
+Reflection is the ability to look under the hood on a class or object in order to understand for example, which methods can be called.
+https://ruby-doc.com/docs/ProgrammingRuby/
 
 ## Ruby Web3/Ethereum libraries
 
