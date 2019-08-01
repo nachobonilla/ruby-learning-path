@@ -95,6 +95,10 @@ https://ruby-doc.com/docs/ProgrammingRuby/html/tut_threads.html
 Reflection is the ability to look under the hood on a class or object in order to understand for example, which methods can be called.
 https://ruby-doc.com/docs/ProgrammingRuby/
 
+### Modules
+Including files & mixins.
+https://ruby-doc.com/docs/ProgrammingRuby/html/tut_modules.html
+
 ## Ruby Web3/Ethereum libraries
 
 These are some project to connect and communicate with Ethereum. Some of them are not very recent.
