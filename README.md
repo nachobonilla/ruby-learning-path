@@ -81,3 +81,21 @@ https://learnrubythehardway.org/book/ex47.html
 
 ### Handling Exceptions
 http://rubylearning.com/satishtalim/ruby_exceptions.html
+
+## Ruby Web3/Ethereum libraries
+
+These are some project to connect and communicate with Ethereum. Some of them are not very recent.
+
+### Ethereum Ruby library - Ethereum.rb
+https://github.com/EthWorks/ethereum.rb
+https://medium.com/@rubyruby.ru/dive-into-ethereum-development-part-3-user-application-107f0a6e5190
+
+### Web3 RPC client for Ethereum node
+https://rubygems.org/gems/web3-eth/versions/0.1.0
+https://www.rubydoc.info/gems/web3-eth/0.1.0
+
+### ~Another~ Web3 RPC client for Ethereum node
+https://github.com/izetex/web3-eth
+
+### A simple Ethereum library for Ruby
+https://github.com/DigixGlobal/ethereum-ruby
