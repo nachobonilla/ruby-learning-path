@@ -5,9 +5,13 @@ This is a document containing the most important things about ruby, and tends to
 The guide will be divided in three components aimed to be followed in order:
 
 1. A gentle introduction to the Ruby sintax and singularities.
+   
         - To get a quick overview on the Ruby language and sintax, [Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/) needs to be your first option.
+  
         - For differences between Ruby and other languages, [Ruby unique traits & Ruby for other languages](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/) may be handy, and also presents comparisons between Ruby and [C and C++](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-c-and-cpp/), [Java](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-java/), [Perl](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-perl/), [PHP](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-php/) and [Python](https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-python/). 
+  
         - To be more alligned on Ruby best practices, you can refer to : [Ruby style guide](https://github.com/rubocop-hq/ruby-style-guide)
+  
 2. A theorical and practical primer on the main concepts of Ruby.
         - Learn Ruby The Hard Way
         *Disclaimer: there are lessons that I didn't find so useful, but if you feel the need to check them out, you can find them in [The 'Learn Ruby The Hard Way' website](https://learnrubythehardway.org/book)*
